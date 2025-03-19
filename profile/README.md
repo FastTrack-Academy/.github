@@ -49,6 +49,6 @@
 We are always looking for **passionate students, mentors, and collaborators**. If you're interested in joining our programs, **drop us a message!** 🎯
 
 📧 **Email us:** info@fasttrackacademy.net  
-💡 **Follow us on LinkedIn:** [FastTrack Academy](https://www.linkedin.com/company/fasttrack-academy/)  
+💡 **Follow us on LinkedIn:** [FastTrack Academy](https://fasttrackacademy.net/team)  
 
 Let’s build the **future of education together!** 🚀  
