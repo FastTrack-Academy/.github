@@ -24,8 +24,6 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" />
   <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -38,10 +36,10 @@
 ## 📌 **Featured Projects**
 🚀 Some of the exciting projects from our students and mentors:
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FastTrack-Academy&repo=adolescent-suicide-dashboard&theme=light)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FastTrack-Academy&repo=HAMD-Drug-Analysis&theme=light)
-
-*(These are placeholders—replace with actual repo links once available.)*
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FastTrack-Academy&repo=adolescent-suicide-dashboard&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FastTrack-Academy&repo=HAMD-Drug-Analysis&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FastTrack-Academy&repo=Augmentative-Alternative-Communications&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FastTrack-Academy&repo=Stock-Sentiment&theme=dark)
 
 ---
 
