@@ -38,7 +38,7 @@
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FastTrack-Academy&repo=adolescent-suicide-dashboard&theme=dark)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FastTrack-Academy&repo=HAMD-Drug-Analysis&theme=dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FastTrack-Academy&repo=Augmentative-Alternative-Communications&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FastTrack-Academy&repo=Augmentative-Alternative-Communication&theme=dark)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FastTrack-Academy&repo=Stock-Sentiment&theme=dark)
 
 ---
