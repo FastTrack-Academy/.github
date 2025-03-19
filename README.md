@@ -39,8 +39,7 @@
 🚀 Some of the exciting projects from our students and mentors:
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FastTrackAcademy&repo=adolescent-suicide-dashboard&theme=light)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FastTrackAcademy&repo=HAMD-Drug-Analysis
-&theme=light)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FastTrackAcademy&repo=HAMD-Drug-Analysis&theme=light)
 
 *(These are placeholders—replace with actual repo links once available.)*
 
